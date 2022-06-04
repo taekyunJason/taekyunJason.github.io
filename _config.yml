@@ -134,7 +134,7 @@ project_my: # 형식에 맞추어 항목 추가
   - background_url: images/personal_project1.PNG
     animation: fadeInLeft
     name: 영양소 [영양사들의 식단 저장소](2022.06)
-    description: 그동안 배웠던 기능들에 대해서 프론트와 백엔드를 혼자서 제작해보았습니다. MVP 구현을 위해서 기본적인 CRUD 기능에 집중하여 메뉴를 등록하고, 해당 메뉴에 대한 식재료와 1인량을 등록하고 공유할 수 있는 사이트를 만들어 보았습니다.
+    description: 그동안 배웠던 기능들에 대해서 프론트(HTML)와 백엔드를 처음부터 끝까지 제작해보았습니다. MVP 구현을 위해서 기본적인 CRUD 기능에 집중하여 메뉴를 등록하고, 해당 메뉴에 대한 식재료와 1인량을 등록하고 공유할 수 있는 사이트를 만들어 보았습니다.
     detail_url: #
     readmore_url: images/myProj01.pdf
 
@@ -267,13 +267,13 @@ blog_list:
   - title: 배워서 남주는 개발자 블로그
     subtitle: 개발 블로그 운영
     date: 2022.03
-    content: 어제보다 더 나아지자는 생각으로 제가 새로 알게된 내용이나 평소에 궁금했던 내용들로 구성하여 꾸준히 개발 블로그를 운영해오고 있습니다.
+    content: 어제보다 더 나아지자는 생각으로 제가 새로 알게된 내용이나 평소에 궁금했던 내용들로 구성하여 꾸준히 개발 블로그를 운영해오고 있습니다. 현재까지 2월부터 시작해서 96개의 주제애 대해서 공부하고 포스팅 했습니다.
     thumbnail_url: images/blog-1.PNG
     link: https://dev-coderkim.tistory.com
   - title: Youtube 채널 운영
     subtitle: 개발관련 및 일상 관련 유튜브 채널 운영
     date: 2022.01
-    content: 유튜브 채널을 운영하며 하루를 정리하며 배운 것들을 정리해서 영상을 촬영하고 있습니다. 개인적으로 복습을 한번 더 하는 장점이 있습니다.
+    content: 유튜브 채널을 운영하며 하루를 정리하며 배운 것들을 정리해서 영상을 촬영하고 있습니다. 매일매일 TIL을 노션에 정리해서 해당 노션을 바탕으로 그날 진행했던 내용과 느낀점들을 정리하고 있습니다.
     thumbnail_url: images/blog-2.PNG
     link: https://www.youtube.com/channel/UCrBDm1wjqWfGbNfn-g18fxw
   - title: 1일 1커밋 잔디심기
