@@ -59,7 +59,8 @@ about_content: >-
   개발자라면 누구든지 처음 시작하게 되면 문제에 직면하게 됩니다.<br>
   에러에 부딫히고 문제를 만나며 성장하게 되는 과정 속에서 저는 해결책을 찾기 위해 부단히 노력하였습니다.<br>
   팀원들 사이에서 저는 "걸어다니는 위키피디아”로 불렸을 정도로 모르는 정보는 찾아보고, 적용하여 끝내 해결책을 찾아 공유했습니다.<br>
-  <strong></strong>
+  <strong>주당 100시간의 몰입을 통해 얻은 성취감을 사랑합니다!</strong>
+
 about_services: # 형식에 맞추어 항목 추가
   - icon: icon-data
     name: Server
@@ -118,7 +119,7 @@ tech_list: # 형식에 맞추어 항목 추가
     mark: 50
     content: 프로젝트를 진행하면서 NodeJs의 사용법과 기능을 익혔습니다. 또한 RESTful하게 API를 작성했습니다.
 
-tech_desc: 앞으로도 보안상 이슈가 없고, 더 나은 서비스를 제공하기 위해서 <strong>Bastion Host, Docker, CI/CD, TypeScript</strong>등을 꾸준히 공부할 생각입니다.
+tech_desc: 앞으로도 보안상 이슈가 없고, 더 나은 서비스를 제공하기 위해서 <strong>ELB, Auto Scaling, Docker, CI/CD, TypeScript</strong>등을 꾸준히 공부할 생각입니다.
 
 # Project
 project_meta: My Work
@@ -132,17 +133,10 @@ project_my_name: 개인프로젝트
 project_my: # 형식에 맞추어 항목 추가
   - background_url: images/personal_project1.PNG
     animation: fadeInLeft
-    name: 딥러닝 불량품 검출(2021.04)
-    description: 실패한 공모전을 대학원 기말 프로젝트를 통해 몰랐던부분을 배우고 해결하였습니다. 공장에서 만들어내는 부품의 데이터를 통해 불량품을 검출하는 프로젝트입니다.
+    name: 영양소 [영양사들의 식단 저장소](2022.06)
+    description: 그동안 배웠던 기능들에 대해서 프론트와 백엔드를 혼자서 제작해보았습니다. MVP 구현을 위해서 기본적인 CRUD 기능에 집중하여 메뉴를 등록하고, 해당 메뉴에 대한 식재료와 1인량을 등록하고 공유할 수 있는 사이트를 만들어 보았습니다.
     detail_url: #
-    readmore_url: #
-
-  - background_url: images/blog-3.PNG
-    animation: fadeInLeft
-    name: 개인 프로젝트 어쩌구
-    description: 설명설명 설명 설명
-    detail_url: #
-    readmore_url: #
+    readmore_url: images/myProj01.pdf
 
 project_team_name: 팀프로젝트
 project_team: # 형식에 맞추어 항목 추가
@@ -151,48 +145,34 @@ project_team: # 형식에 맞추어 항목 추가
     name: 날씨야 뭐볼래? (2022.03)
     description: 사용자의 위치를 실시간으로 불러오고, 날씨에 따라 어울리는 영화장르를 필터링해서 보여주고 예매사이트로 이동가능한 사이트를 만들었습니다
     detail_url: https://www.youtube.com/watch?v=lmdDV4PuJJQ&list=PLsIuQ8zpbUGThrDegnbOykv6emSydoasl&index=6
-    readmore_url: #
+    readmore_url: images/proj01.pdf
 
   - background_url: images/team_project.PNG
     animation: fadeInRight
     name: 개발자를 위한 꿀템 추천샵 [개 꿀 샵] (2022.04)
     description: 사용자가 사용하면서 좋았던 제품들을 카테고리 별로 등록해서 다른 유저들과 공유하고 좋아요를 많이 받은 순으로 랭킹을 매겨 메인화면에 노출시키고 댓글로 소통이 가능한 사이트를 만들었습니다
     detail_url: https://www.youtube.com/watch?v=hOhe9zBMHho&list=PLsIuQ8zpbUGThrDegnbOykv6emSydoasl&index=44
-    readmore_url: #
+    readmore_url: images/proj02.pdf
 
   - background_url: images/team_project1.PNG
     animation: fadeInRight
     name: 마켓컬리 클론코딩 (2020.05)
     description: 마켓컬리의 주요 기능들을 만들고 구현해본 사이트를 만들었습니다
     detail_url: https://www.youtube.com/watch?v=Y2HT10AfHao
-    readmore_url: #
+    readmore_url: images/proj03.pdf
 
-  - background_url: images/team_project3.PNG
+  - background_url: images/team_project5.PNG
     animation: fadeInRight
     name: Soldier Challengers [솔져 챌린저스] (2020.05)
     description: 현재 군대에서 복무중이지만 사회로의 복귀가 막연하고 두려운 군인들에게 취업으로 시작해서 그들의 인생 전반에 걸쳐 도전하고자 하는 것들을 스스로 설정해서 성취하는 챌린지 사이트를 만들었습니다
-    detail_url: https://www.youtube.com/watch?v=Y2HT10AfHao
-    readmore_url: #
+    detail_url: https://youtu.be/MD96bE9T1EI
+    readmore_url: images/proj04.pdf
 
   - background_url: images/team_project2.PNG
     animation: fadeInRight
     name: Peer Review (2020.03 - 06)
     description: 웹개발을 하면서 진행했던 팀프로젝트를 함께 했던 팀원들에게 동료평가를 받았습니다.
-    detail_url: https://docs.google.com/forms/d/1RFQfnJ7sHlyGaE3Bk50E-ytu51IUxKvLXLuGhEwdtXo/edit#responses
-    readmore_url: #
-
-project_business_name: Business
-project_business: # 형식에 맞추어 항목 추가
-  - background_url: images/my_business.PNG
-    animation: fadeInTop
-    name: Smart Store (2021~)
-    description: >-
-      취준과 대학원진학을 동시에 했을때 많은 곳에서 github 주소뿐만아니라 개발 블로그주소도 요청하는데가 많았다.(물론 필수는 아니였지만) 
-      또한 교육기관(멋쟁이사자처럼,네이버 부스트 캠프, 소마등)에서도 마찬가지이다. 현재 프로그래밍의 중요도가 올라가고있으며 초등학생부터 의무교육을 시작한다고 한다. 
-      많은 비전공자들이 뒤늦게 프로그래밍을 시작하고 있다. 열심히 배우고 지원할려니 개발 블로그를 요청한다... 프로그래밍을 시작할때 알았다면 얼마나 좋았을까. 
-      공부하면서 블로그 내용을 채웠으면 참 좋았을것이다. 이런 흐름을 캐치하여 나는 개발자다운 블로그인 깃헙블로그를 만드는 짧은 강의를 만들었다.
-    detail_url: #
-    readmore_url: #
+    detail_url: https://dev-coderkim.tistory.com/108
 
 # Experience
 exp_meta: What have I achieved?
@@ -202,7 +182,7 @@ exp_services: # 형식에 맞추어 항목 추가
   - name: 300명 이상 영업
     color: color-1
     icon: icon-refresh
-    content: 영업 직무를 통해 300명 이상의 고객들과 고객사들과 직접 만나 이야기하며 영업했습니다. 이를통해 소통의 중요성을 깨달았습니다.
+    content: 영업 직무를 통해 300명 이상의 고객들과 고객사와 직접 만나 이야기하며 영업했습니다. 이를통해 소통의 중요성을 깨달았습니다.
   - name: 해외 트렌드 분석
     color: color-2
     icon: icon-chart-area
@@ -268,7 +248,7 @@ edu_list:
   - title: Hanghae 99
     subtitle: 스파르타 코딩클럽 [항해99] 수강
     date: 2022.03 - 현재
-    content: 스파르타 코딩클럽 [항해99] 과정을 수강하며, 컴퓨터 사이언스와 JavaScript 및 Node.js 프레임워크에 대해 배우며 웹 서버 개발자로 성장하기 위한 교육을 받고 팀원들과 프로젝트를 수행중입니다. 추가적으로 AWS를 활용한 배포, Git을 통한 소스코드 관리등을 진행하고 있습니다.
+    content: 스파르타 코딩클럽 [항해99] 과정을 수강하며, 컴퓨터 사이언스와 JavaScript 및 Node.js 프레임워크에 대해 배우며 웹 서버 개발자로 성장하기 위한 교육을 받고 팀원들과 프로젝트를 수행중입니다. 추가적으로 AWS를 활용한 배포, Git을 통한 소스코드 관리등을 진행하고 있습니다. 그리고 문제가 발생했을때 필요한 내용을 구글링하는 능력을 기를수 있었습니다.
   - title: Korea Polytechnics
     subtitle: 한국 폴리텍 대학 증강현실시스템과 수료
     date: 2021.03 - 2021.09
@@ -296,7 +276,7 @@ blog_list:
     content: 유튜브 채널을 운영하며 하루를 정리하며 배운 것들을 정리해서 영상을 촬영하고 있습니다. 개인적으로 복습을 한번 더 하는 장점이 있습니다.
     thumbnail_url: images/blog-2.PNG
     link: https://www.youtube.com/channel/UCrBDm1wjqWfGbNfn-g18fxw
-  - title: 1일 1커밋 잔다심기
+  - title: 1일 1커밋 잔디심기
     subtitle: Github 잔디심기
     date: 2022.03
     content: 웹 개발을 시작하고, 끊이지 않고 매일 커밋을 진행하고 있습니다. 꾸준하게 개발에 대한 감을 놓치지 않으려고 노력중입니다.
@@ -316,7 +296,7 @@ contact_list:
   - title: https://github.com/taekyunJason
     icon: icon-layers2
     url: https://github.com/taekyunJason
-contact_message: <em>연락해주셔서 감사합니다.</em> 24시간이내에 회신드리도록 하겠습니다. :)
+contact_message: <em>연락해주셔서 감사합니다.</em> 24시간이내에 회신드리도록 하겠습니다.
 
 optional_front_matter:
   remove_originals: true
