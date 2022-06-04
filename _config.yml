@@ -267,7 +267,7 @@ blog_list:
   - title: 배워서 남주는 개발자 블로그
     subtitle: 개발 블로그 운영
     date: 2022.03
-    content: 어제보다 더 나아지자는 생각으로 제가 새로 알게된 내용이나 평소에 궁금했던 내용들로 구성하여 꾸준히 개발 블로그를 운영해오고 있습니다. 현재까지 2월부터 시작해서 96개의 주제애 대해서 공부하고 포스팅 했습니다.
+    content: 2월 13일부터 시작해서 현재까지 모르거나 찾아본 <strong>96개</strong>의 주제애 대해서 공부하고 포스팅 했습니다. 어제보다 더 나아지자는 생각으로 제가 새로 알게된 내용이나 평소에 궁금했던 내용들로 구성하여 꾸준히 개발 블로그를 운영해오고 있습니다.
     thumbnail_url: images/blog-1.PNG
     link: https://dev-coderkim.tistory.com
   - title: Youtube 채널 운영
