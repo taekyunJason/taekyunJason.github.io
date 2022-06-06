@@ -99,7 +99,7 @@ tech_list: # 형식에 맞추어 항목 추가
     animation: fadeInLeft
     percent: 30
     mark: 30
-    content: AWS를 서버를 활용하여, EC2와 RDS로 프로젝트 진행을 했습니다. 또한 S3와 multer를 사용하여 이미지를 업로드하는 예제를 구현했습니다. 현재 ELB와 Auto Scaling에 대해 학습중입니다.
+    content: AWS EC2와 RDS로 프로젝트 진행을 했습니다. 또한 S3와 multer를 사용하여 이미지를 업로드하는 예제를 구현했습니다. 현재 ELB와 Auto Scaling에 대해 학습중입니다.
   - name: Github
     color: color-4
     animation: fadeInRight
