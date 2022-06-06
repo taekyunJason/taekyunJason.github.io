@@ -135,7 +135,7 @@ project_my: # 형식에 맞추어 항목 추가
     animation: fadeInLeft
     name: 영양소 [영양사들의 식단 저장소](2022.06)
     description: 그동안 배웠던 기능들에 대해서 프론트(HTML)와 백엔드를 처음부터 끝까지 제작해보았습니다. MVP 구현을 위해서 기본적인 CRUD 기능에 집중하여 메뉴를 등록하고, 해당 메뉴에 대한 식재료와 1인량을 등록하고 공유할 수 있는 사이트를 만들어 보았습니다.
-    detail_url: #
+    detail_url: https://youtu.be/xBmb64PJZ68
     readmore_url: images/myProj01.pdf
 
 project_team_name: 팀프로젝트
